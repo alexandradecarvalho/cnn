@@ -147,4 +147,4 @@ dmypy.json
 
 # Datasets used
 UCF-QNRF_ECCV18/
-
+data/*
